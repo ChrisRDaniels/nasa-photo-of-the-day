@@ -1,5 +1,26 @@
+
 .App {
   text-align: center;
+}
+
+.container {
+  width: 60vw;
+  margin: 0 auto;
+}
+
+.nasa-photo {
+  width: 100%;
+  margin: 0 auto;
+  border-radius: 10%;
+}
+
+.button {
+  margin: 10px;
+}
+.explanation {
+  margin: 0 auto;
+  width: 100%;
+
 }
 
 .App-logo {
